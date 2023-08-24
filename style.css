@@ -3,6 +3,7 @@ body{
     font-family: 'Lato', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
+    background-color: #ffffe0;
 }
 
 h1{
@@ -104,6 +105,6 @@ p{
 }
 
 .emoji-face:hover{
-    background-color: black;
+    transform: scale(1.5);
+    background-color: skyblue;
 }
-
